@@ -1,1 +1,1 @@
-# image2PDF
+# imageToPDF
